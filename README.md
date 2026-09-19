@@ -8,6 +8,8 @@ The application uses a local Singapore travel knowledge base for stable
 destination information and MCP tools for dynamic information such as
 weather forecasts and currency conversion.
 
+## GIT Repo Link: https://github.com/DevAnuragGarg/ai_travel_planning_assistant
+
 ------------------------------------------------------------------------
 
 ## 1. Project Overview
